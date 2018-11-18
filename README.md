@@ -41,4 +41,4 @@ The FlickerImageSearch enables users to search intended results of images. While
 
 **Output**
 ![Screenshot](https://github.com/HariY/FlickrImageSearch/blob/master/Screenshot_2018-11-18-18-52-22-437_flickerimage.test.com.flickrimagesearch.png)
-![Screenshot](https://github.com/HariY/FlickrImageSearch/blob/master/Screenshot_2018-11-18-18-52-22-437_flickerimage.test.com.flickrimagesearch.png)
+![Screenshot](https://github.com/HariY/FlickrImageSearch/blob/master/Screenshot_2018-11-18-18-52-47-096_flickerimage.test.com.flickrimagesearch.png)
