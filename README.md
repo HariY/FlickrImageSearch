@@ -14,8 +14,8 @@ The FlickerImageSearch enables users to search intended results of images. While
 **Functional flow**
  Sequence diagrams explains the functional flow of the application. More details can be checked through below sequence charts.
  
-![Screenshot](https://github.com/HariY/FlickerImageDownload/blob/master/sq1.png)
-![Screenshot](https://github.com/HariY/FlickerImageDownload/blob/master/sq2.png)
+![Screenshot](https://github.com/HariY/FlickrImageSearch/blob/master/sq1.png)
+![Screenshot](https://github.com/HariY/FlickrImageSearch/blob/master/sq2.png)
 
 **Gradle requirements**
 
