@@ -38,3 +38,7 @@ The FlickerImageSearch enables users to search intended results of images. While
 3. Handle FILE cache as per the guidelines of DISK-LRU cache so that to optimise the storage usage space.
 4. Can provide smooth animations while rendering the images.
 5. Can use Staggered Layout Manager to render difference in image dimensions.
+
+**Output**
+![Screenshot](https://github.com/HariY/FlickrImageSearch/blob/master/Screenshot_2018-11-18-18-52-22-437_flickerimage.test.com.flickrimagesearch.png)
+![Screenshot](https://github.com/HariY/FlickrImageSearch/blob/master/Screenshot_2018-11-18-18-52-22-437_flickerimage.test.com.flickrimagesearch.png)
